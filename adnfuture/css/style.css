@@ -1,0 +1,62 @@
+body {
+	background:#1c75bc;	
+	color: rgba(255,255,255,.8);
+}
+
+.container {
+	margin-top:30px;
+}
+
+.adn-avatar-small {
+	height: 15px;
+	width: 15px;
+}
+
+.adn-avatar-medium {
+	height: 35px;
+	width: 35px;
+}
+
+.h-entry {
+	margin-bottom: 50px;
+}
+
+h1 {
+	text-align:center;
+	font-size:24px;
+}
+
+a, a:hover {
+	color:#fdde36;
+}
+
+h1 a,h1 a:hover {
+	color: ##fdde36;
+}
+
+.head-avatar {
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+}
+
+.panel-body span,.panel-body img {
+	margin: 0 5px;
+}
+
+.panel {
+	background: #fff;
+	color: #333;
+}
+
+article {
+	padding:10px 15px;
+}
+
+article a, article a:hover {
+	color:#1c75bc;
+}
+
+li a, li a:hover {
+	color:#333;
+}
